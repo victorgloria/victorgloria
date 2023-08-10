@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @victorgloria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @victorgloria, UTSA Grad B.s.CS 2023.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning MERN stack.
 - 📫 How to reach me victor.gloria@hotmail.com
 
 <!---
